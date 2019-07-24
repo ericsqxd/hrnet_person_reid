@@ -1,2 +1,2 @@
 # hrnet_person_reid
-HRNet based person re-identification
+本项目基于论文“多分辨率特征注意力融合的再识别方法”，项目正在整理中，待完善。
